@@ -1,0 +1,88 @@
+[INFO ] 20-04-2022 11:48:20 [main] edge - FTTC01
+[INFO ] 20-04-2022 11:48:25 [main] edge - Register an account
+[INFO ] 20-04-2022 11:48:30 [main] edge - Login with registered account
+[INFO ] 20-04-2022 11:48:46 [main] edge - Book tickets
+[INFO ] 20-04-2022 11:48:47 [main] edge - Compare note message
+[INFO ] 20-04-2022 11:48:53 [main] edge - FTTC01
+[INFO ] 20-04-2022 11:48:59 [main] edge - Register an account
+[INFO ] 20-04-2022 11:49:04 [main] edge - Login with registered account
+[INFO ] 20-04-2022 11:49:35 [main] edge - Book tickets
+[INFO ] 20-04-2022 11:49:37 [main] edge - Compare note message
+[INFO ] 20-04-2022 11:49:43 [main] edge - FTTC02
+[INFO ] 20-04-2022 11:49:48 [main] edge - Register an account
+[INFO ] 20-04-2022 11:49:53 [main] edge - Login with registered account
+[INFO ] 20-04-2022 11:49:58 [main] edge - Book tickets
+[INFO ] 20-04-2022 11:49:59 [main] edge - Cancel tickets
+[INFO ] 20-04-2022 11:50:00 [main] edge - Confirm cancel tickets
+[INFO ] 20-04-2022 11:50:00 [main] edge - Compare message
+[INFO ] 20-04-2022 11:50:07 [main] edge - FTTC02
+[INFO ] 20-04-2022 11:50:12 [main] edge - Register an account
+[INFO ] 20-04-2022 11:50:17 [main] edge - Login with registered account
+[INFO ] 20-04-2022 11:50:21 [main] edge - Book tickets
+[INFO ] 20-04-2022 11:50:22 [main] edge - Cancel tickets
+[INFO ] 20-04-2022 11:50:23 [main] edge - Confirm cancel tickets
+[INFO ] 20-04-2022 11:50:23 [main] edge - Compare message
+[INFO ] 20-04-2022 11:50:29 [main] edge - FTTC02
+[INFO ] 20-04-2022 11:50:34 [main] edge - Register an account
+[INFO ] 20-04-2022 11:50:38 [main] edge - Login with registered account
+[INFO ] 20-04-2022 11:50:43 [main] edge - Book tickets
+[INFO ] 20-04-2022 11:50:44 [main] edge - Cancel tickets
+[INFO ] 20-04-2022 11:50:45 [main] edge - Confirm cancel tickets
+[INFO ] 20-04-2022 11:50:45 [main] edge - Compare message
+[INFO ] 20-04-2022 11:51:10 [main] chrome - FTTC01
+[INFO ] 20-04-2022 11:51:16 [main] chrome - Register an account
+[INFO ] 20-04-2022 11:51:21 [main] chrome - Login with registered account
+[INFO ] 20-04-2022 11:51:37 [main] chrome - Book tickets
+[INFO ] 20-04-2022 11:51:39 [main] chrome - Compare note message
+[INFO ] 20-04-2022 11:51:44 [main] chrome - FTTC01
+[INFO ] 20-04-2022 11:51:49 [main] chrome - Register an account
+[INFO ] 20-04-2022 11:51:54 [main] chrome - Login with registered account
+[INFO ] 20-04-2022 11:52:26 [main] chrome - Book tickets
+[INFO ] 20-04-2022 11:52:27 [main] chrome - Compare note message
+[INFO ] 20-04-2022 11:52:31 [main] chrome - FTTC02
+[INFO ] 20-04-2022 11:52:35 [main] chrome - Register an account
+[INFO ] 20-04-2022 11:52:40 [main] chrome - Login with registered account
+[INFO ] 20-04-2022 11:52:45 [main] chrome - Book tickets
+[INFO ] 20-04-2022 11:52:47 [main] chrome - Cancel tickets
+[INFO ] 20-04-2022 11:52:48 [main] chrome - Confirm cancel tickets
+[INFO ] 20-04-2022 11:52:48 [main] chrome - Compare message
+[INFO ] 20-04-2022 11:52:52 [main] chrome - FTTC02
+[INFO ] 20-04-2022 11:52:58 [main] chrome - Register an account
+[INFO ] 20-04-2022 11:53:04 [main] chrome - Login with registered account
+[INFO ] 20-04-2022 11:53:09 [main] chrome - Book tickets
+[INFO ] 20-04-2022 11:53:10 [main] chrome - Cancel tickets
+[INFO ] 20-04-2022 11:53:12 [main] chrome - Confirm cancel tickets
+[INFO ] 20-04-2022 11:53:12 [main] chrome - Compare message
+[INFO ] 20-04-2022 11:53:16 [main] chrome - FTTC02
+[INFO ] 20-04-2022 11:53:21 [main] chrome - Register an account
+[INFO ] 20-04-2022 11:53:25 [main] chrome - Login with registered account
+[INFO ] 20-04-2022 11:53:30 [main] chrome - Book tickets
+[INFO ] 20-04-2022 11:53:31 [main] chrome - Cancel tickets
+[INFO ] 20-04-2022 11:53:32 [main] chrome - Confirm cancel tickets
+[INFO ] 20-04-2022 11:53:32 [main] chrome - Compare message
+[INFO ] 20-04-2022 11:54:00 [main] firefox - FTTC01
+[INFO ] 20-04-2022 11:54:03 [main] firefox - Register an account
+[INFO ] 20-04-2022 11:54:06 [main] firefox - Login with registered account
+[INFO ] 20-04-2022 11:54:20 [main] firefox - Book tickets
+[INFO ] 20-04-2022 11:54:20 [main] firefox - Compare note message
+[INFO ] 20-04-2022 11:54:29 [main] firefox - FTTC02
+[INFO ] 20-04-2022 11:54:32 [main] firefox - Register an account
+[INFO ] 20-04-2022 11:54:35 [main] firefox - Login with registered account
+[INFO ] 20-04-2022 11:54:40 [main] firefox - Book tickets
+[INFO ] 20-04-2022 11:54:41 [main] firefox - Cancel tickets
+[INFO ] 20-04-2022 11:54:42 [main] firefox - Confirm cancel tickets
+[INFO ] 20-04-2022 11:54:42 [main] firefox - Compare message
+[INFO ] 20-04-2022 11:54:50 [main] firefox - FTTC02
+[INFO ] 20-04-2022 11:54:53 [main] firefox - Register an account
+[INFO ] 20-04-2022 11:54:57 [main] firefox - Login with registered account
+[INFO ] 20-04-2022 11:55:01 [main] firefox - Book tickets
+[INFO ] 20-04-2022 11:55:02 [main] firefox - Cancel tickets
+[INFO ] 20-04-2022 11:55:03 [main] firefox - Confirm cancel tickets
+[INFO ] 20-04-2022 11:55:03 [main] firefox - Compare message
+[INFO ] 20-04-2022 11:55:11 [main] firefox - FTTC02
+[INFO ] 20-04-2022 11:55:14 [main] firefox - Register an account
+[INFO ] 20-04-2022 11:55:18 [main] firefox - Login with registered account
+[INFO ] 20-04-2022 11:55:22 [main] firefox - Book tickets
+[INFO ] 20-04-2022 11:55:23 [main] firefox - Cancel tickets
+[INFO ] 20-04-2022 11:55:24 [main] firefox - Confirm cancel tickets
+[INFO ] 20-04-2022 11:55:24 [main] firefox - Compare message
